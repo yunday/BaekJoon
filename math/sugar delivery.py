@@ -1,6 +1,4 @@
-import sys
-
-n = int(sys.stdin.readline())
+n = int(input())
 cnt = n
 i = 0
 
